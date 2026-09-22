@@ -221,3 +221,8 @@ DAX Measures
 Interactive Visualizations
        ↓
 Final Business Dashboard
+
+Author
+Shubham Maity
+
+B.Tech — Artificial Intelligence & Machine Learning
